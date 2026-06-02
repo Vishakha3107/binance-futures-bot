@@ -1,0 +1,16 @@
+# Sensitive API credentials and environment variables
+.env
+
+# Application log outputs (prevents local logs from cluttering git)
+logs/
+*.log
+
+# Python cache files generated during execution
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
