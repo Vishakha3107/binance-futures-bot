@@ -2,8 +2,6 @@
 
 This is a multi-layered Python 3.x command-line utility application designed to place Market and Limit orders directly onto the Binance Futures Testnet (USDT-M) platform. 
 
-The technical architecture and instructions outlined in this project directly satisfy the application task guidelines detailed in **DOC-20260602-WA0001..pdf**.
-
 ---
 
 ## Features
